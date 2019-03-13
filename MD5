@@ -1,0 +1,13 @@
+bf445440b8d6ce0f46609e6913dd5a43 *DESCRIPTION
+25b5118c54b5ee068b19222b36e1e41b *NAMESPACE
+f68b4fb5310b29120e296395d8a1fffd *R/csvToDataframe.R
+5c8b76e9f7a40f518dd9b03bab1eaab4 *R/getFileData.R
+80d4ac0281507ed2ede4964fdc82dee5 *R/getFilenames.R
+67feec641c326562e0850fc603e61c49 *R/jsonToDataframe.R
+4d9a28e96e885f7ba8853173748f9f86 *R/setEnvironment.R
+2451f0e8d814dd452810adf4eebc34e8 *README.md
+3f75d2af964862d6d2fc7acd3324030a *man/csvToDataframe.Rd
+aef39e08a49451e93d35f8465abc01a4 *man/getFileData.Rd
+a793b38eb1fd0184666e9e3431734dec *man/getFilenames.Rd
+a73e18942d03d8033f37325caf2b1b14 *man/jsonToDataframe.Rd
+ad72c2ee071052a5ff2a9a337a47ea0d *man/setEnvironment.Rd
